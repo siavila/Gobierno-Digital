@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    {{ __('You are logged in!') }}
+                       {{ __('Bienvenido al sistema de administración de usuarios del Gobierno Digital!') }}
                 </div>
             </div>
         </div>
